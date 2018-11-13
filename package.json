@@ -1,7 +1,8 @@
 {
-  "name": "my_package",
+  "name": "IgorP_test",
   "version": "2.0.0",
   "dependencies": {
-    "my_dep": "1.0.0"
+    "d3": "3.0.0"
   },
+  "license": "MIT"
 }
